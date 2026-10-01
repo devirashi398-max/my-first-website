@@ -28,6 +28,10 @@ Artiva Studio is a simple creative platform-style website designed to showcase a
 
 **[Visit Artiva Studio](https://devirashi398-max.github.io/my-first-website/)**
 
+## 📸 Preview
+
+![Artiva Studio Preview](screenshot.png)
+
 ## 📂 Project Structure
 
 ```text
